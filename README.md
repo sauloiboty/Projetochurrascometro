@@ -1,1 +1,1 @@
-Versão 1.0
+Churrascômetro em aprimoramento conforme desenvolvimento de habilidades.
